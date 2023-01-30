@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    font-family: "ProductSans";
+    font-size: 15pt;
+    background-color: #222244;
+    color: #FFFFFF;
+}
+button {
+    padding: 12px;
+    color: #FFFFFF;
+    background-color: #444488;
+    border: 3px solid #333366;
+    font-family: "ProductSans";
+    border-radius: 30px;
+    font-size: 15pt;
+}
+h3 {
+    font-family: "BreezeSans";
+    font-size: 15pt;
+}
+@font-face {
+    font-family: "ProductSans";
+    src: url(fonts/ProductSansRegular.ttf);
+}
+@font-face {
+    font-family: "BreezeSans";
+    src: url(fonts/BreezeSans.ttf);
+}
