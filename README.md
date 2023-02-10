@@ -29,7 +29,10 @@ This tool uses `JavaScript` which contains functions that makes the result show 
         }
 ```
 
-2. Once you made the script, simply put a `script` tag to your `.html` file and locate for the path to your script you have made.
+2. Once you made the script, simply put a `script` tag to your `.html` file and locate for the path to your script you have made:
+```
+src="(the path to your script)"
+```
 
 3. After that, make a `button` and put this code on it:
 ```
