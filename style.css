@@ -21,6 +21,9 @@ h3 {
 h4 {
     font-family: "BreezeSans";
 }
+hr {
+    color: #000000;
+}
 @font-face {
     font-family: "ProductSans";
     src: url(fonts/ProductSansRegular.ttf);
